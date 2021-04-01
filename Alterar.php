@@ -1,3 +1,3 @@
 <?php
-    echo "Conteúdo antes da alteração";
+    echo "Alteração realizada via PR";
 ?>
